@@ -1,4 +1,4 @@
-Tugas 4 - MLP
+Tugas 4 - Multi Layer Perceptron
 
 BACKPROPAGATION
 
